@@ -5,7 +5,7 @@
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 #include <Adafruit_Sensor.h>
 #include <Adafruit_ADXL345_U.h>
-
+ 
 #include <HTTPClient.h>
 //----------------------------------------
 
